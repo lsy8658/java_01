@@ -1,3 +1,12 @@
 2025.12.16
 
 자바 시작 ( 자바 한다..ㅋㅋ ) + sql, spring boot
+
+자바는 개발을 위해서 
+JDK + IDE
+
+JDK는 자바 개발을 위한 프로그램
+JRE는 자바 프로그램을 실행하기 위한 프로그램 
+
+iDE는 알고 있듯이 통합 개발 환경 ( 빌드, 컴파일, 실행을 하기 위해 설치 )
+VScode, Eclipse, IntelliJ, Cursor 등
